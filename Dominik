@@ -1,6 +1,6 @@
 <head>
 <style>
-h1{font-color:red}
+h1{background-color:red}
 </style>
 <body>
 <h1>Szia</h1>
